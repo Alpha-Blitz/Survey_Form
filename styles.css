@@ -38,7 +38,7 @@ fieldset {
 
 input, textarea, select {
   display: block;
-  width: 96%;
+  width: 100%;
   background-color: #c2e7d9;
   border: 0px;
   border-radius: 4px;
@@ -48,7 +48,7 @@ input, textarea, select {
 }
 
 form {
-  width: 100%;
+  width: 96%;
   margin: auto;
 }
 
